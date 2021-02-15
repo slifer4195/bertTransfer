@@ -1,3 +1,2 @@
 # coding challenge
-
-practice distillbert
+fellowship.ai
